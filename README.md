@@ -15,13 +15,21 @@
     - [ ] Set up domain DNS   
   - Page development
 ### Index
-- [ ] Create Page
+- [X] Create Page
+- [X] Create Style Sheet
+- [X] Create Java Script
 ### Home
-- [ ] Create Page
+- [X] Create Page
+- [X] Create Style Sheet
+- [X] Create Java Script
 ### About me
-- [ ] Create Page
+- [X] Create Page
+- [X] Create Style Sheet
+- [X] Create Java Script
 ### Projects
-- [ ] Create Page
+- [X] Create Page
+- [X] Create Style Sheet
+- [X] Create Java Script
 ### Contact
 
 
